@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL数据库（lxj）/基础篇/SQL分类.md",
+                "file": "MySQL数据库（lxj）/基础篇/DDL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL分类"
+              "title": "DDL"
             }
           }
         ]
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,11 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f843f9e8d18c450c",
+  "active": "411922bb030e0813",
   "lastOpenFiles": [
+    "MySQL数据库（lxj）/基础篇/DDL.md",
+    "MySQL数据库（lxj）/基础篇/SQL分类.md",
     "MySQL数据库（lxj）/图片/Pasted image 20260727195713.png",
     "MySQL数据库（lxj）/运维篇/00 运维篇概览.md",
-    "MySQL数据库（lxj）/基础篇/SQL分类.md",
     "MySQL数据库（lxj）/图片/Pasted image 20260726193107.png",
     "MySQL数据库（lxj）/进阶篇/00 进阶篇概览.md",
     "MySQL数据库（lxj）/基础篇/00 基础篇概览.md",
