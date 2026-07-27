@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5bcdac990988136e",
+        "id": "7146b7ce5f89954a",
         "type": "tabs",
         "children": [
           {
-            "id": "04ea27642b8f693c",
+            "id": "f005d5c8a892dc50",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "C++学习笔记/02 C书写Hello World.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "02 C书写Hello World"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -164,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "C++学习笔记/02 C书写Hello World.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "02 C书写Hello World 的大纲"
             }
           }
         ],
@@ -177,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04ea27642b8f693c",
+  "active": "f005d5c8a892dc50",
   "lastOpenFiles": [
+    "C++学习笔记/01 课程安排.md",
+    "C++学习笔记/02 C书写Hello World.md",
+    "C++学习笔记/图片",
+    "C++学习笔记/图片/Pasted image 20260727101425.png",
+    "C++学习笔记",
     "MySQL数据库（lxj）/01 mysql课程介绍（导航栏）.md"
   ]
 }
