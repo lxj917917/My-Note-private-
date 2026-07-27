@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL数据库（lxj）/运维篇/00 运维篇概览.md",
+                "file": "MySQL数据库（lxj）/基础篇/SQL分类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 运维篇概览"
+              "title": "SQL分类"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -194,6 +195,8 @@
   },
   "active": "411922bb030e0813",
   "lastOpenFiles": [
+    "MySQL数据库（lxj）/运维篇/00 运维篇概览.md",
+    "MySQL数据库（lxj）/基础篇/SQL分类.md",
     "MySQL数据库（lxj）/图片/Pasted image 20260726193107.png",
     "MySQL数据库（lxj）/进阶篇/00 进阶篇概览.md",
     "MySQL数据库（lxj）/基础篇/00 基础篇概览.md",
