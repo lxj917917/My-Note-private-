@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && if not exist \"C:\\Users\\98642\\AppData\\Local\\Temp\\cpp-test\" mkdir \"C:\\Users\\98642\\AppData\\Local\\Temp\\cpp-test\" && g++ $fileName -o \"C:\\Users\\98642\\AppData\\Local\\Temp\\cpp-test\\$fileNameWithoutExt\" && \"C:\\Users\\98642\\AppData\\Local\\Temp\\cpp-test\\$fileNameWithoutExt\""
+    },
+    "code-runner.runInTerminal": true
+}
