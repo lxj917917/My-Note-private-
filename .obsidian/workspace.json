@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7146b7ce5f89954a",
+        "id": "e8b5cc9d1aedcca5",
         "type": "tabs",
         "children": [
           {
-            "id": "f005d5c8a892dc50",
+            "id": "618ae1f3451ccebc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++学习笔记/05 常量.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05 常量"
+              "title": "新标签页"
             }
           }
         ]
@@ -74,13 +70,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -166,13 +160,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习笔记/05 常量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05 常量 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -195,15 +188,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f005d5c8a892dc50",
+  "active": "618ae1f3451ccebc",
   "lastOpenFiles": [
     "C++学习笔记/04 变量的意义.md",
+    "C++学习笔记/07 标识符命名规则.md",
+    "C++学习笔记/01 课程安排.md",
     "C++学习笔记/05 常量.md",
+    "C++学习笔记/06 关键字.md",
+    "C++学习笔记/07 标识符命名规则.md.tmp.23540.815a04141565",
+    "C++学习笔记/03 单行注释&多行注释.md.tmp.23540.1601c8117632",
+    "C++学习笔记/01 课程安排.md.tmp.23540.cc7f770e404a",
+    "C++学习笔记/图片/Pasted image 20260727110049.png",
     "C++学习笔记/03 单行注释&多行注释.md",
     "C++学习笔记/02 C书写Hello World.md",
     "C++项目.exe",
     "C++项目.cpp",
-    "C++学习笔记/01 课程安排.md",
     "C++学习笔记/图片",
     "C++学习笔记/图片/Pasted image 20260727101425.png",
     "C++学习笔记",
