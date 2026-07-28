@@ -27,11 +27,31 @@ bigint
 
 浮点数：
 float   --------单精度
-double -------双精度
+double -------双精度   -----score double(4,1)
 decimal  依赖于M（精度）  和   D（标度）
 例子：123.45
 精度：整个的位数 5
 标度：小数的位数 2
 
 字符串类型：
-![[Pasted image 20260728160130.png]]char
+![[Pasted image 20260728160130.png]]char（10）     定长字符串----------------->性能较高
+varchar（10）  变长字符串---------------->性能较差    输入的字符串长度不确定时可以使用varchar，如果长度确定了就是用char
+
+tinyblob
+tinytext
+
+blob
+text
+
+mediumblob
+mediumtext
+
+longblob
+longtext
+
+日期时间类型：
+![[Pasted image 20260728161000.png]]date                日期zhi
+time
+year
+datetime
+timestamp
