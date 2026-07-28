@@ -17,3 +17,18 @@ show create table tb_user;
 
 三、DDL数据类型及案例
 数据类型主要分为三类：数值类型、字符串类型、日期时间类型
+![[Pasted image 20260728154135.png]]
+整型类型：
+tinyint
+smallint
+mediumint
+int
+bigint
+
+浮点数：
+float   --------单精度
+double -------双精度
+decimal  依赖于M（精度）  和   D（标度）
+例子：123.45
+精度：整个的位数 5
+标度：小数的位数 2
