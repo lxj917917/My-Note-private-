@@ -64,3 +64,10 @@ timestamp      混合日期和时间值，时间戳
 5.年龄（正常人年龄，不可能为负数）
 6.身份证号（二代身份证18位）
 7.入职时间（取年月日）
+![[Pasted image 20260728162508.png]]
+
+四、DDL表操作-修改&删除
+![[Pasted image 20260728162905.png]]
+添加字段语法
+alter table tb_user add nickname varchar(20);
+添加一个昵称字段
