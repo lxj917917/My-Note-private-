@@ -1,5 +1,19 @@
-DDL（数据库操作）
-![[Pasted image 20260727195713.png]]DDL（表操作）创建&查询
+一、DDL数据库操作
+![[Pasted image 20260727195713.png]]
+
+二、DDL表操作（创建&查询）
 查询：
-![[Pasted image 20260728151345.png]]创建：
+![[Pasted image 20260728151345.png]]
+show tb_user;
+只能展示表的大致结构
+
+show create table tb_user;
+可以展示建表时的详细信息
+
+创建：
 ![[Pasted image 20260728151627.png]]
+实际例子：
+![[Pasted image 20260728153132.png]]
+
+三、DDL数据类型及案例
+数据类型主要分为三类：数值类型、字符串类型、日期时间类型

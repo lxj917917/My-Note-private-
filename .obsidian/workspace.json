@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f843f9e8d18c450c",
+  "active": "411922bb030e0813",
   "lastOpenFiles": [
+    "MySQL数据库（lxj）/图片/Pasted image 20260728153132.png",
     "MySQL数据库（lxj）/图片/Pasted image 20260728151627.png",
     "MySQL数据库（lxj）/图片/Pasted image 20260728151345.png",
     "C++学习笔记/16~23 运算符.md",
@@ -214,7 +217,6 @@
     "MySQL数据库（lxj）/进阶篇/00 进阶篇概览.md",
     "MySQL数据库（lxj）/基础篇/00 基础篇概览.md",
     "MySQL数据库（lxj）/01 mysql课程介绍（导航栏）.md",
-    "C++学习笔记/图片/Pasted image 20260727111430.png",
     "C++学习笔记/08~15 数据类型/08 整型.md",
     "C++学习笔记/08~15 数据类型",
     "C++学习笔记/04 变量的意义.md",
