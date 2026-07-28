@@ -50,8 +50,17 @@ longblob
 longtext
 
 日期时间类型：
-![[Pasted image 20260728161000.png]]date                日期zhi
-time
-year
-datetime
-timestamp
+![[Pasted image 20260728161000.png]]date                日期值
+time                时间值
+year                 年份值
+datetime         混合日期和时间值
+timestamp      混合日期和时间值，时间戳
+
+案例：
+1.编号（纯数字）
+2.员工工号（字符串类型，长度不超过10位）
+3.员工姓名（字符串类型，长度不超过10位）
+4.性别（男/女，存储一位汉字）
+5.年龄（正常人年龄，不可能为负数）
+6.身份证号（二代身份证18位）
+7.入职时间（取年月日）
