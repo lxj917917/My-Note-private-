@@ -6,6 +6,8 @@
             "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
             "args": [
                 "-g",
+                "-include",
+                "${workspaceFolder}/.vscode/console_init.h",
                 "${file}",
                 "-o",
                 "C:/Users/98642/AppData/Local/Temp/cpp-test/output.exe"

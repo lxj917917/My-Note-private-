@@ -1,6 +1,6 @@
 {
     "code-runner.executorMap": {
-        "cpp": "cd $dir ; g++ $fileName -o \"C:\\Users\\98642\\AppData\\Local\\Temp\\cpp-test\\$fileNameWithoutExt.exe\" ; & \"C:\\Users\\98642\\AppData\\Local\\Temp\\cpp-test\\$fileNameWithoutExt.exe\""
+        "cpp": "cd $dir ; g++ $fileName -include \"$workspaceRoot\\.vscode\\console_init.h\" -o \"C:\\Users\\98642\\AppData\\Local\\Temp\\cpp-test\\$fileNameWithoutExt.exe\" ; & \"C:\\Users\\98642\\AppData\\Local\\Temp\\cpp-test\\$fileNameWithoutExt.exe\""
     },
     "code-runner.runInTerminal": true
 }
