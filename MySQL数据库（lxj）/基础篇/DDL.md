@@ -69,5 +69,13 @@ timestamp      混合日期和时间值，时间戳
 四、DDL表操作-修改&删除
 ![[Pasted image 20260728162905.png]]
 添加字段语法
-alter table tb_user add nickname varchar(20);
+alter table tb_user add nickname varchar(20) comment '昵称';
 添加一个昵称字段
+
+修改数据类型&修改字段名和字段类型
+![[Pasted image 20260728163623.png]]
+alter table tb_user modify 字段名 新数据类型（长度）；
+
+删除字段
+![[Pasted image 20260728164025.png]]
+alter table tb_user drop 字段名;
