@@ -79,3 +79,12 @@ alter table tb_user modify 字段名 新数据类型（长度）；
 删除字段
 ![[Pasted image 20260728164025.png]]
 alter table tb_user drop 字段名;
+
+修改表名
+![[Pasted image 20260728164551.png]]
+alter table 表名 rename to 新表名
+
+删除表
+![[Pasted image 20260728164814.png]]
+drop table if exists 表名
+truncate table 表名    (重新创建该表，数据会丢失，xu'yao'chong'xin'xie'ru)
