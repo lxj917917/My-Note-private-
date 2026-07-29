@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstdlib>
+#include <ctime>
 
 using namespace std;
 
@@ -20,7 +21,7 @@ int main()
 
     //猜数字
     //调用C++的库 rand()
-
+    /*srand((unsigned int)time(NULL));     // 初始化随机数种子
     int random = rand() % 100 + 1;
     int guess_number = 0;
     
@@ -43,6 +44,19 @@ int main()
         break;
 
     }
+    }*/
+
+    //敲桌子
+    for (int i = 0;i<100;i++)
+    {
+        if (i % 7 == 0 || i / 10 == 7 || i % 10 == 7)
+        {
+            cout << "敲桌子" << endl;
+        }
+        else
+        {
+            cout << i << endl;
+        }
     }
 
     system("pause");
