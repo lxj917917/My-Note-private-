@@ -11,6 +11,10 @@ int main()
     {
         cout << "恭喜您，考上了一本大学" << endl;
     }
+    else 
+    {
+        cout << "很遗憾，您没有考上一本大学" << endl;
+    }
     
     system("pause");
     return 0;
