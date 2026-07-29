@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++学习笔记/42~49 数组.md",
+                "file": "MySQL数据库（lxj）/基础篇/DDL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42~49 数组"
+              "title": "DDL"
             }
           }
         ]
@@ -192,14 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f843f9e8d18c450c",
+  "active": "411922bb030e0813",
   "lastOpenFiles": [
+    "MySQL数据库（lxj）/基础篇/SQL分类.md",
+    "C++学习笔记/42~49 数组.md",
     "C++学习笔记/图片/Pasted image 20260729115125.png",
     "C++学习笔记/图片/Pasted image 20260729115018.png",
     "C++学习笔记/图片/Pasted image 20260729114503.png",
     "C++学习笔记/图片/Pasted image 20260729113446.png",
     "C++学习笔记/24~41 程序流程结构.md",
-    "C++学习笔记/42~49 数组.md",
     "C++学习笔记/24~41 程序流程结构.md.tmp.17656.ec0c52b14762",
     "C++学习笔记/图片/Pasted image 20260729111956.png",
     "C++学习笔记/图片/Pasted image 20260729111502.png",
@@ -207,7 +208,6 @@
     "C++学习笔记/图片/Pasted image 20260729105346.png",
     "C++学习笔记/图片/Pasted image 20260729105210.png",
     "C++学习笔记/图片/Pasted image 20260729103915.png",
-    "C++学习笔记/图片/Pasted image 20260729103635.png",
     "C++调试区.cpp.tmp.17776.81ba3c9cda71",
     "C++学习笔记/16~23 运算符.md",
     "MySQL数据库（lxj）/基础篇/DDL.md",
@@ -215,7 +215,6 @@
     "C++学习笔记/06 关键字.md",
     "C++学习笔记/07 标识符命名规则.md",
     "C++学习笔记/08~15 数据类型.md",
-    "MySQL数据库（lxj）/基础篇/SQL分类.md",
     "MySQL数据库（lxj）/运维篇/00 运维篇概览.md",
     "MySQL数据库（lxj）/进阶篇/00 进阶篇概览.md",
     "MySQL数据库（lxj）/基础篇/00 基础篇概览.md",
