@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -193,13 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "411922bb030e0813",
+  "active": "f843f9e8d18c450c",
   "lastOpenFiles": [
-    "Pasted image 20260730145206.png",
-    "Pasted image 20260730143458.png",
-    "Pasted image 20260730143125.png",
-    "Pasted image 20260730142444.png",
-    "Pasted image 20260730142032.png",
+    "C++学习笔记/图片/Pasted image 20260730145206.png",
+    "C++学习笔记/图片/Pasted image 20260730143458.png",
+    "C++学习笔记/图片/Pasted image 20260730143125.png",
+    "C++学习笔记/图片/Pasted image 20260730142444.png",
+    "C++学习笔记/图片/Pasted image 20260730142032.png",
     "C++学习笔记/50~55 函数.md",
     "C++学习笔记/56~63 指针.md",
     "C++学习笔记/图片/Pasted image 20260730114844.png",
