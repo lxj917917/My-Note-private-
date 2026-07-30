@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -192,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f843f9e8d18c450c",
+  "active": "411922bb030e0813",
   "lastOpenFiles": [
     "C++学习笔记/56~63 指针.md",
     "C++学习笔记/图片/Pasted image 20260730114844.png",
