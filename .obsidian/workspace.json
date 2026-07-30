@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL数据库（lxj）/基础篇/DDL.md",
+                "file": "C++学习笔记/50~55 函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDL"
+              "title": "50~55 函数"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -194,8 +195,10 @@
   },
   "active": "411922bb030e0813",
   "lastOpenFiles": [
-    "MySQL数据库（lxj）/基础篇/SQL分类.md",
+    "Pasted image 20260730102507.png",
     "MySQL数据库（lxj）/基础篇/DDL.md",
+    "C++学习笔记/50~55 函数.md",
+    "MySQL数据库（lxj）/基础篇/SQL分类.md",
     "C++学习笔记/42~49 数组.md",
     "C++学习笔记/图片/Pasted image 20260729115125.png",
     "C++学习笔记/图片/Pasted image 20260729115018.png",

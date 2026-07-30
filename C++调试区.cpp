@@ -47,7 +47,7 @@ int main()
     }*/
 
     //敲桌子
-    for (int i = 0;i<100;i++)
+    /*for (int i = 0;i<100;i++)
     {
         if (i % 7 == 0 || i / 10 == 7 || i % 10 == 7)
         {
@@ -57,8 +57,18 @@ int main()
         {
             cout << i << endl;
         }
-    }
+    }*/
+
+    //函数实现相加
+    int sum = 0;
+    sum = add(10,20);
+    cout << "sum = " << sum << endl;
 
     system("pause");
     return 0;
+}
+
+int add(int a,int b)
+{
+    return a+b;
 }
