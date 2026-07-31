@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++学习笔记/56~63 指针.md",
+                "file": "C++学习笔记/64~71 结构体.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "56~63 指针"
+              "title": "64~71 结构体"
             }
           }
         ]
@@ -192,22 +192,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f843f9e8d18c450c",
+  "active": "411922bb030e0813",
   "lastOpenFiles": [
+    "C++学习笔记/56~63 指针.md",
+    "C++学习笔记/64~71 结构体.md",
     "C++学习笔记/图片/Pasted image 20260730145206.png",
     "C++学习笔记/图片/Pasted image 20260730143458.png",
     "C++学习笔记/图片/Pasted image 20260730143125.png",
     "C++学习笔记/图片/Pasted image 20260730142444.png",
     "C++学习笔记/图片/Pasted image 20260730142032.png",
     "C++学习笔记/50~55 函数.md",
-    "C++学习笔记/56~63 指针.md",
     "C++学习笔记/图片/Pasted image 20260730114844.png",
     "C++学习笔记/图片/Pasted image 20260730114354.png",
     "C++学习笔记/图片/Pasted image 20260730113241.png",
     "C++学习笔记/图片/Pasted image 20260730112241.png",
     "C++学习笔记/50~55 函数.md.tmp.29368.473d84e4aa8f",
     "C++学习笔记/图片/Pasted image 20260730103932.png",
-    "C++学习笔记/图片/Pasted image 20260730102507.png",
     "MySQL数据库（lxj）/基础篇/DDL.md",
     "MySQL数据库（lxj）/基础篇/SQL分类.md",
     "C++学习笔记/42~49 数组.md",
