@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++学习笔记/cpp面向对象程序设计/06~11 C++中的引用.md",
+                "file": "MySQL数据库（lxj）/基础篇/DML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06~11 C++中的引用"
+              "title": "DML"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -179,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +197,9 @@
   },
   "active": "411922bb030e0813",
   "lastOpenFiles": [
+    "C++学习笔记/cpp面向对象程序设计/06~11 C++中的引用.md",
     "MySQL数据库（lxj）/基础篇/DML.md",
     "C++学习笔记/cpp面向对象程序设计/01~05 程序的内存模型.md",
-    "C++学习笔记/cpp面向对象程序设计/06~11 C++中的引用.md",
     "C++学习笔记/图片/Pasted image 20260803120722.png",
     "C++学习笔记/图片/Pasted image 20260803120050.png",
     "C++学习笔记/图片/Pasted image 20260803115424.png",
