@@ -22,3 +22,5 @@ select count(idcard) from 表名                    统计表名中idcard的数�
 比如：员工按照性别分组
 ![[Pasted image 20260804160752.png]]
 group by gender
+分组之后再过滤 having
+![[Pasted image 20260804162248.png]]
