@@ -17,3 +17,8 @@ select distinct 字段列表 from 表名                            去重操作
 三、聚合函数
 ![[Pasted image 20260804155522.png]]
 select count(idcard) from 表名                    统计表名中idcard的数量
+
+四、分组查询
+比如：员工按照性别分组
+![[Pasted image 20260804160752.png]]
+group by gender
