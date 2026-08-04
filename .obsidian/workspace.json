@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL数据库（lxj）/基础篇/DQL.md",
+                "file": "MySQL数据库（lxj）/基础篇/2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DQL"
+              "title": "2"
             }
           }
         ]
@@ -196,8 +196,11 @@
   },
   "active": "411922bb030e0813",
   "lastOpenFiles": [
+    "Pasted image 20260804110323.png",
+    "Pasted image 20260804110019.png",
+    "Pasted image 20260804105840.png",
     "MySQL数据库（lxj）/基础篇/00 基础篇概览.md",
-    "MySQL数据库（lxj）/基础篇/DQL.md",
+    "MySQL数据库（lxj）/基础篇/2.md",
     "MySQL数据库（lxj）/基础篇/DML.md",
     "Pasted image 20260804103716.png",
     "Pasted image 20260804102644.png",
@@ -209,8 +212,6 @@
     "C++学习笔记/图片/Pasted image 20260803115317.png",
     "C++学习笔记/图片/Pasted image 20260803112644.png",
     "C++学习笔记/图片/Pasted image 20260803111621.png",
-    "C++学习笔记/图片/Pasted image 20260803111038.png",
-    "C++学习笔记/图片/Pasted image 20260803105521.png",
     "C++学习笔记/基础知识/64~71 结构体.md",
     "C++学习笔记/cpp面向对象程序设计",
     "C++学习笔记/未命名.md",
@@ -240,7 +241,6 @@
     "C++学习笔记/基础知识/05 常量.md",
     "C++学习笔记/07 标识符命名规则.md.tmp.23540.815a04141565",
     "C++学习笔记/03 单行注释&多行注释.md.tmp.23540.1601c8117632",
-    "C++学习笔记/01 课程安排.md.tmp.23540.cc7f770e404a",
-    "C++学习笔记/基础知识/03 单行注释&多行注释.md"
+    "C++学习笔记/01 课程安排.md.tmp.23540.cc7f770e404a"
   ]
 }
