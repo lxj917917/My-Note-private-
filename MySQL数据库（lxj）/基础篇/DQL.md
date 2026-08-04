@@ -13,3 +13,7 @@ select distinct 字段列表 from 表名                            去重操作
 二、条件查询
 ![[Pasted image 20260804152206.png]]
 判断值是否为NULL ，用is （not）
+
+三、聚合函数
+![[Pasted image 20260804155522.png]]
+select count(idcard) from 表名                    统计表名中idcard的数量
