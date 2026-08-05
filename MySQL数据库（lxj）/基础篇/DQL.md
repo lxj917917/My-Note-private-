@@ -26,3 +26,5 @@ group by gender
 ![[Pasted image 20260804162248.png]]
 
 五、排序查询
+![[Pasted image 20260805111314.png]]
+select * from 表名 order by age (asc/desc)
