@@ -6,3 +6,7 @@ data control language ，用来管理数据库用户，控制数据库的访问�
 
 只能在本地当前主机访问 @localhost
 在任意主机可访问 @%
+
+二、权限控制
+用户创建好了，需要给用户分配权限
+![[Pasted image 20260805155749.png]]![[Pasted image 20260805155918.png]]
