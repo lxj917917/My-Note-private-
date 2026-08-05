@@ -24,3 +24,5 @@ select count(idcard) from 表名                    统计表名中idcard的数�
 group by gender
 分组之后再过滤 having
 ![[Pasted image 20260804162248.png]]
+
+五、排序查询
