@@ -28,3 +28,7 @@ group by gender
 五、排序查询
 ![[Pasted image 20260805111314.png]]
 select * from 表名 order by age (asc/desc)
+
+六、分页查询
+![[Pasted image 20260805114552.png]]
+select * from 表名 limit 0,10                             查询第一页，十条记录
