@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d248f9e27a79d25d",
@@ -195,19 +194,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "411922bb030e0813",
+  "active": "f843f9e8d18c450c",
   "lastOpenFiles": [
-    "Pasted image 20260808150121.png",
-    "Pasted image 20260808144228.png",
-    "Pasted image 20260808143950.png",
-    "Pasted image 20260808143625.png",
-    "Pasted image 20260808143310.png",
+    "MySQL数据库（lxj）/图片/Pasted image 20260808150121.png",
+    "MySQL数据库（lxj）/图片/Pasted image 20260808144228.png",
+    "MySQL数据库（lxj）/图片/Pasted image 20260808143950.png",
+    "MySQL数据库（lxj）/图片/Pasted image 20260808143625.png",
+    "MySQL数据库（lxj）/图片/Pasted image 20260808143310.png",
     "MySQL数据库（lxj）/基础篇/06 约束.md.tmp.44384.e09b87e86b63",
     "MySQL数据库（lxj）/基础篇/06 约束.md",
     "MySQL数据库（lxj）/基础篇/02 DML.md",
     "MySQL数据库（lxj）/基础篇/01 DDL.md",
     "MySQL数据库（lxj）/基础篇/07 多表查询.md",
-    "Pasted image 20260808135353.png",
+    "MySQL数据库（lxj）/图片/Pasted image 20260808135353.png",
     "MySQL数据库（lxj）/基础篇/03 DQL.md",
     "MySQL数据库（lxj）/基础篇/0.5 SQL分类.md",
     "C++学习笔记/02 cpp面向对象程序设计/16~60 类和对象.md",
