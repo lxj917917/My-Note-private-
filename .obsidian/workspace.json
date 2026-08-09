@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77fc026f71f903d0",
+        "id": "360c98fb0639acf4",
         "type": "tabs",
         "children": [
           {
-            "id": "411922bb030e0813",
+            "id": "988fbc6c5214f433",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "411922bb030e0813",
+  "active": "988fbc6c5214f433",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "MySQL数据库（lxj）/基础篇/07 多表查询.md",
     "Pasted image 20260809105453.png",
     "Pasted image 20260809104857.png",
     "MySQL数据库（lxj）/图片/Pasted image 20260808150121.png",
@@ -208,14 +210,12 @@
     "MySQL数据库（lxj）/基础篇/06 约束.md",
     "MySQL数据库（lxj）/基础篇/02 DML.md",
     "MySQL数据库（lxj）/基础篇/01 DDL.md",
-    "MySQL数据库（lxj）/基础篇/07 多表查询.md",
     "MySQL数据库（lxj）/图片/Pasted image 20260808135353.png",
     "MySQL数据库（lxj）/基础篇/03 DQL.md",
     "MySQL数据库（lxj）/基础篇/0.5 SQL分类.md",
     "C++学习笔记/02 cpp面向对象程序设计/16~60 类和对象.md",
     "C++学习笔记/图片/Pasted image 20260808114422.png",
     "C++学习笔记/图片/Pasted image 20260808113148.png",
-    "C++学习笔记/图片/Pasted image 20260808111834.png",
     "C++学习笔记/02 cpp面向对象程序设计/12~15 函数高级.md",
     "C++学习笔记/02 cpp面向对象程序设计/未命名.md",
     "C++学习笔记/02 cpp面向对象程序设计/12~15 函数高级.md.tmp.45320.057677ad7c46",
