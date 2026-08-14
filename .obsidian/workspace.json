@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL数据库（lxj）/基础篇/02 DML.md",
+                "file": "MySQL数据库（lxj）/基础篇/04 DCL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 DML"
+              "title": "04 DCL"
             }
           }
         ]
@@ -196,12 +196,12 @@
   },
   "active": "988fbc6c5214f433",
   "lastOpenFiles": [
+    "MySQL数据库（lxj）/基础篇/03 DQL.md",
+    "MySQL数据库（lxj）/基础篇/02 DML.md",
     "MySQL数据库（lxj）/基础篇/01 DDL.md",
     "MySQL数据库（lxj）/基础篇/05 函数.md",
-    "MySQL数据库（lxj）/基础篇/02 DML.md",
     "MySQL数据库（lxj）/基础篇/0.5 SQL分类.md",
     "MySQL数据库（lxj）/基础篇/04 DCL.md",
-    "MySQL数据库（lxj）/基础篇/03 DQL.md",
     "MySQL数据库（lxj）/基础篇/06 约束.md",
     "MySQL数据库（lxj）/基础篇/07 多表查询.md",
     "MySQL数据库（lxj）/进阶篇/00 进阶篇概览.md",
